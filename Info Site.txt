@@ -1,0 +1,15 @@
+Page accueil 
+	-> Dernier Vidéo de la chaine 
+	-> Lien des Reseaux
+Live
+	->Connect E-sport / BRTV
+	-> Chat des lives
+Mods
+	-> Classification des mods de la chaine par catégorie
+Galerie
+	-> Fan Art des Abonnés
+Forum
+	-> FAQ
+Page Contact
+	-> A propos Concours
+	-> E-mail de Dark et Azn
